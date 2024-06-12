@@ -1,0 +1,4 @@
+﻿  main.cpp
+  mainc.c
+D:\My_date\Code\VS\例题解决\1-8操作符详解\1-8操作符详解\mainc.c(387,12): warning C4305: “初始化”: 从“int”到“short”截断
+  1-8操作符详解.vcxproj -> D:\My_date\Code\VS\例题解决\1-8操作符详解\x64\Debug\1-8操作符详解.exe

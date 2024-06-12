@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(77,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(77,9): message : 请考虑在格式字符串中使用“%lld”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(77,9): message : 请考虑在格式字符串中使用“%Id”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(77,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(85,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(85,9): message : 请考虑在格式字符串中使用“%lld”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(85,9): message : 请考虑在格式字符串中使用“%Id”
+D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\Project1\Main.cpp(85,9): message : 请考虑在格式字符串中使用“%I64d”
+  Project1.vcxproj -> D:\My_date\Code\VS\例题解决\2-2初识结构体\Project1\x64\Debug\Project1.exe
